@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
-    int myNum = 15;
-    myNum = 20;  // myNum is now 20
+    int salary = 15;
+    salary = 20;  // salary is now 20
     System.out.println(myNum);
   }
 }
